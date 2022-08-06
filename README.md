@@ -4,4 +4,4 @@
 
 - `Starter Content`
 - `Third Person`
-- `ParagonFey` (Marketplace)
+- `AnimalVarietyPack` (Marketplace)
