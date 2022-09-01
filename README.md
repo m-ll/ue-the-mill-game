@@ -5,6 +5,7 @@
 - `Starter Content`
 - `Third Person`
 - `AnimalVarietyPack` (Marketplace)
+- `AfricanAnimalsPack` (Marketplace)
 
 ## Make a windows package
 
